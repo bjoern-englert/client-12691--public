@@ -190,4 +190,29 @@ You can get a copy of the license under: https://www.apache.org/licenses/LICENSE
     background-color: var(--spd) !important;
     background-size: auto !important;
     background-image: url(../../images/header.png) !important;
+    padding-bottom: 0 !important;
+    height: 400px; 
+}
+
+.header-container {
+    margin: 104px 32px 0 32px; 
+    max-width: none !important;
+}
+
+.header-watermark-container {
+    margin-top: calc(32px - 104px) !important;
+}
+
+.welcome-page-settings {
+    top: calc(32px - 104px) !important;
+}
+
+.header-text-title, 
+.header-text-subtitle {
+    color: var(--darkgrey) !important;
+}
+
+h1,
+.header-text-title {
+    margin: 0 !important;
 }
