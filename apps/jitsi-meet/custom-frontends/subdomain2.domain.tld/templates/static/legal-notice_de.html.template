@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="de" class="html">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel='stylesheet' href='css/meet.css' type='text/css' media='all' />
+  <title>{{NAME_LEGAL_NOTICE}}</title>
+</head>
+<body class="body">
+<main class="main">
+  <div class="imprint">
+    <h1>{{NAME_LEGAL_NOTICE}}</h1>
+    <h2>Anbieterinkennzeichnung gem. § 5 TMG und </br>
+      inhaltlich Verantwortliche gemäß § 55 Abs. 2 RStV:</h2>
+      <address class="address"><strong>Mechthild Rawert, MdB a.D.</strong></br>
+        Rheinstraße 10 </br>
+        12159 Berlin </br>
+        Tel. 0178 859 14 20 </br>
+        E-Mail: <a href="mailto:info@mechthild-rawert.de" title="E-Mail an mich">info@mechthild-rawert.de</a> </br>
+      </address>
+  </div>
+  <nav class="nav-sub">
+      <div class="mr-icon size_96 white">
+        <a href="https://{{FQDN}}" title="Zurück" target="_self">&#xe5c4;</a>
+      </div>
+  </nav>
+</main>
+</body>
+</html>
